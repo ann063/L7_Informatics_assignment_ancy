@@ -1,7 +1,8 @@
 # L7_Informatics_assignment_ancy
 Git repo for the assignmentround of L7 Informatics
-NAME- ANCY SHARMILA D
-REG NO- 20MIS0211
+
+# NAME- ANCY SHARMILA D
+# REG NO- 20MIS0211
 
 # Ice Cream Parlor Application
 
