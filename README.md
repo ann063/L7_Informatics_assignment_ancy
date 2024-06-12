@@ -1,7 +1,7 @@
 # L7_Informatics_assignment_ancy
 Git repo for the assignmentround of L7 Informatics
 
-# Ice Cream Shop Application
+# Ice Cream Parlor Application
 
 ## Setup
 
@@ -9,13 +9,13 @@ Git repo for the assignmentround of L7 Informatics
 2. Run the following command to set up the database:
 
     ```sh
-    python setup_db.py
+    python db_setup.py
     ```
 
 3. Run the main application:
 
     ```sh
-    python ice_cream_shop.py
+    python ice_cream_parlor.py
     ```
 
 ## Usage
@@ -34,13 +34,13 @@ Git repo for the assignmentround of L7 Informatics
 1. Build the Docker image:
 
     ```sh
-    docker build -t ice_cream_shop .
+    docker build -t ice_cream_parlor .
     ```
 
 2. Run the Docker container:
 
     ```sh
-    docker run -it --rm ice_cream_shop
+    docker run -it --rm ice_cream_parlor
     ```
 
 3. Follow the menu prompts inside the Docker container to use the application.
